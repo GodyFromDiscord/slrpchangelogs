@@ -1,7 +1,7 @@
 03/18/2023
-+ Added a new multicharacter
++ Added a new multicharacter theme
 + Added the new ID cards, can get grabbed from cityhall next to the guy
-+ placeholder text
-
-03/15/2023
-+ Placeholder
++ Fixed pre-existing ID cards, people will have to buy a new one
++ Updated some features on the loading screen
++ Fixed the notification system on some scripts
++ Added a new admin menu, for trialing
