@@ -1,21 +1,18 @@
-22/03/2023
-+ Added a new multicharacter screen
-+ Began moving all old notifications into new ones
-+ Fixed Female Prison Outfits (Iris)
-+ Added more furniture to housing and reorganised the file (Iris)
-+ Added a new pause menu, will be adding mapping binds and fixing bugs
-+ Added more food/made pre-existing food edible that didn't work
-+ Added a new prison
-+ Added new PD Speed Enforcement Units
-+ Updated the multicharacter screen
-+ Updated emotes, added more in
-+ Updated CCTV
-+ Updated smartphone, hopefully fixing some issues
-
-03/18/2023
-+ Added a new multicharacter theme
-+ Added the new ID cards, can get grabbed from cityhall next to the guy
-+ Fixed pre-existing ID cards, people will have to buy a new one
-+ Updated some features on the loading screen
-+ Fixed the notification system on some scripts
-+ Added a new admin menu, for trialing
+May 14, 2023
++ Change Oil Drilling System
++ Change Mining System (First Location added)
++ Prepwork for New Crafting System
++ Fruit harvesting (Oranges to start)
++ Updates for Emergency Services MDT/Dispatch
++ Prep work for Hunting Licenses
++ ID Card System Updated
++ Prep for Smart Phone Update
++ Prep for Housing System Update
++ Ground work for Planting/Harvesting (Legal and Illegal)
++ Added Inventory Items
++ Fixed Broken images
++ Prep work for New Ambulance/Injury system
++ Prep work for New Law Enforcement and Evidence System
+- Remove used MLOs to reduce resource load
+- Remove script redundancies
+- Temporary Removal of Blackmarket for updates (Return on Afternoon Storm)
